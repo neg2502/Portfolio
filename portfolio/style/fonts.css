@@ -1,0 +1,15 @@
+@font-face {
+  font-family: vazir;
+  font-style: normal;
+  src: url("../fonts/Vazirmatn-Light.ttf") format("ttf"),
+    url("../fonts/Vazirmatn-Light.woff2") format("woff2");
+}
+@font-face {
+  font-family: vazir;
+  font-style: normal;
+  src: url("../fonts/Vazirmatn-Medium.ttf") format("ttf"),
+    url("../fonts/Vazirmatn-Medium.woff2") format("woff2");
+}
+* {
+  font-family: vazir;
+}

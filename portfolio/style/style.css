@@ -1,0 +1,25 @@
+.container-fluid {
+  background-color: #17153b;
+}
+.nav {
+  background-color: #433d8b;
+}
+.btn {
+  background-color: #ffce32;
+  color: #000;
+  margin: 1rem;
+}
+.rounded-circle {
+  background-color: #c8acd6;
+  width: 5rem;
+  height: 5rem;
+}
+.lable {
+  background-color: #d9d9d9;
+  border-radius: 50px;
+}
+.box {
+  background-color: #c8acd6;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
